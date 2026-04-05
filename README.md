@@ -14,3 +14,4 @@ contract StorageBox {
         message = _newMessage;
     }
 }
+Fix minor bug in contract
