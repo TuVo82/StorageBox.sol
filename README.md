@@ -15,3 +15,4 @@ contract StorageBox {
     }
 }
 Fix minor bug in contract
+Add fallback function
