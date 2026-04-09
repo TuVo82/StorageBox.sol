@@ -18,3 +18,4 @@ Fix minor bug in contract
 Add fallback function
 Fix edge case handling
 Improve contract structure
+Add fallback function
