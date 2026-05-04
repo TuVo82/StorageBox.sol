@@ -21,3 +21,4 @@ Improve contract structure
 Add fallback function
 Refactor contract layout
 Update function logic
+Fix edge scenario
